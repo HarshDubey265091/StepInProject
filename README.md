@@ -1,2 +1,2 @@
-# StepInProject GO TO BRANCH MASTER
+# StepInProject
 Mini-Project of the StepIn 256091
