@@ -20,9 +20,9 @@ So, to reduce this error Resistance colour code software is used inorder to redu
 ---
 | Memory Space Cost               |          Features               |
 |------|-----|
-|0000000000000000 T searchthecolour|searchsunction to search the colour pattern and their repective band resistance value as per in the given resistance band|
-|0000000000000043 T seperatethehigherorder|separate function to separate the higher order resistance value|
-|0000000000000000 T comparetheStrings|compare function to compare the band colour as per provided input|
+|0000000000000000 T Search_BandColour|Search_BandColour function to match the colour pattern and their repective band resistance value as per in the given resistance band|
+|0000000000000043 T seperatethehigher|separatethehigher function to separate the higher order resistance value|
+|0000000000000000 T matchcolour|matchcolour function to match the band colour as per provided input|
 
 
 
