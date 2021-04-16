@@ -1,3 +1,17 @@
+/**
+ * @file main.c
+ * @author Harsh Dubey (you@domain.com)
+ * @brief Main Function
+ * @version 0.1
+ * @date 2021-04-15
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
+
+
+
 #include "stdio.h"
 #include "string.h"
 #include "fun.h"
