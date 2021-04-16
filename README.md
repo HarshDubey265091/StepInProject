@@ -1,6 +1,6 @@
 # StepInProject
 Mini-Project of the StepIn 256091
-
+![RESISTANCE COLOUR CODE](https://github.com/HarshDubey265091/StepInProject/blob/main/download.jpg)
 
 ([![cppcheck-action](https://github.com/HarshDubey265091/StepInProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/HarshDubey265091/StepInProject/actions/workflows/cppcheck.yml)
 ([![Contribution Check - Git Inspector](https://github.com/HarshDubey265091/StepInProject/actions/workflows/git_Inspector.yml/badge.svg)](https://github.com/HarshDubey265091/StepInProject/actions/workflows/git_Inspector.yml)
