@@ -1,3 +1,18 @@
+/**
+ * @file separatecolour.c
+ * @author Harsh Dubey(you@domain.com)
+ * @brief Function to separate the higher order resistance value
+ * @version 0.1
+ * @date 2021-04-15
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
+
+
+
+
 #include "fun.h"
 #include "string.h"
 #include "stdio.h"
