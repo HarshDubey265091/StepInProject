@@ -27,7 +27,7 @@ So, to reduce this error Resistance colour code software is used inorder to redu
 
 
 ## SWOT ANALYSIS
-![SWOT-Sample]()
+![SWOT-Sample](https://github.com/HarshDubey265091/StepInProject/blob/main/Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
